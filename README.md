@@ -4,3 +4,5 @@ On the second part I created A LSTM model. It is a complex Nueral network model.
 
 Later in the project I mined tweets over few days and checked the models on the new data
 
+Hope you will learn
+
